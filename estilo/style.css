@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+/* CORES
+#C1E253
+#141414
+*/
+
+body {
+    background-color: #141414;
+}
+
+header h1{
+    color: white;
+}
+
+header p {
+    color: #C1E253;
+}
